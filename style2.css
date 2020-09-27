@@ -306,7 +306,7 @@ background-size: cover;
 }
 
 /*responsive*/
-@media screen and (max-width: 1200px max-height:800px){
+@media screen and (max-width: 1300px){
 	.container {
     width: 100%;
   }
